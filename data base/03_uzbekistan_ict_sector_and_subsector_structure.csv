@@ -1,0 +1,22 @@
+Dataset_Category,Period,Subsector,Share_Pct,Reference_Total,Source_URL
+IT_Park_Export_Mix,2023,IT Outsourcing,57.0,$344.0M,https://www.it-park.uz/en/itpark/news/results-of-2023-transformation-and-plans-for-2024
+IT_Park_Export_Mix,2023,Product Exports,23.0,$344.0M,https://www.it-park.uz/en/itpark/news/results-of-2023-transformation-and-plans-for-2024
+IT_Park_Export_Mix,2023,BPO and Other Services,20.0,$344.0M,https://www.it-park.uz/en/itpark/news/results-of-2023-transformation-and-plans-for-2024
+IT_Park_Export_Mix,2024,IT Services,53.0,IT Park Exports,https://en.wikipedia.org/wiki/IT_Park_Uzbekistan
+IT_Park_Export_Mix,2024,BPO Services,28.0,IT Park Exports,https://en.wikipedia.org/wiki/IT_Park_Uzbekistan
+IT_Park_Export_Mix,2024,GameDev and Creative Economy,11.0,IT Park Exports,https://en.wikipedia.org/wiki/IT_Park_Uzbekistan
+IT_Park_Export_Mix,2024,Software Products,8.0,IT Park Exports,https://en.wikipedia.org/wiki/IT_Park_Uzbekistan
+ICT_GDP_Value_Added,2025_H1,"Computer Programming, Consulting & Related",43.8,2.7% of GDP,https://stat.uz/files/602/choraklik-natijalar-2025-yanvar-iyuneng/4066/1-2GROSS-DOMESTIC-PRODUCT.pdf
+ICT_GDP_Value_Added,2025_H1,Communication Services,35.4,2.7% of GDP,https://stat.uz/files/602/choraklik-natijalar-2025-yanvar-iyuneng/4066/1-2GROSS-DOMESTIC-PRODUCT.pdf
+ICT_GDP_Value_Added,2025_H1,"Data Hosting, Processing & Web Portals",11.6,2.7% of GDP,https://stat.uz/files/602/choraklik-natijalar-2025-yanvar-iyuneng/4066/1-2GROSS-DOMESTIC-PRODUCT.pdf
+ICT_GDP_Value_Added,2025_H1,Software Release,6.2,2.7% of GDP,https://stat.uz/files/602/choraklik-natijalar-2025-yanvar-iyuneng/4066/1-2GROSS-DOMESTIC-PRODUCT.pdf
+ICT_GDP_Value_Added,2025_H1,Repair of Computers & Comm Equipment,3.0,2.7% of GDP,https://stat.uz/files/602/choraklik-natijalar-2025-yanvar-iyuneng/4066/1-2GROSS-DOMESTIC-PRODUCT.pdf
+Comm_Info_Services_Output,2026_Jan_Sep,Computer Programming Services,48.4,"77,606.2B UZS",https://gov.uz/en/activity_page/digital_technology
+Comm_Info_Services_Output,2026_Jan_Sep,Telecommunications Services,27.5,"77,606.2B UZS",https://gov.uz/en/activity_page/digital_technology
+Comm_Info_Services_Output,2026_Jan_Sep,Information Services,15.8,"77,606.2B UZS",https://gov.uz/en/activity_page/digital_technology
+Comm_Info_Services_Output,2026_Jan_Sep,Publishing Services,6.1,"77,606.2B UZS",https://gov.uz/en/activity_page/digital_technology
+Comm_Info_Services_Output,2026_Jan_Sep,Other Services,2.2,"77,606.2B UZS",https://gov.uz/en/activity_page/digital_technology
+Public_Sector_ICT_Budget,2026,Digital Platforms Development & Maintenance,45.0,$410M est.,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan
+Public_Sector_ICT_Budget,2026,Infrastructure and Data Centers,25.0,$410M est.,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan
+Public_Sector_ICT_Budget,2026,Cybersecurity,15.0,$410M est.,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan
+Public_Sector_ICT_Budget,2026,Communications,15.0,$410M est.,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan

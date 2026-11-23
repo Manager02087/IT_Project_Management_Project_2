@@ -1,0 +1,19 @@
+Category,Indicator,Baseline_or_Peer,Uzbekistan_Current,Target_2030_or_WorldAvg,Unit,Source_URL
+9M_YoY_Operations,IT Park Residents Service Exports (9M 2025 vs 9M 2026),480.9,623.2,5000.0,USD Millions,https://www.uzdaily.uz/en/industrial-output-in-uzbekistans-special-economic-zones-rises-187/ | https://www.outsource.gov.uz/en/media/uzbekistan-to-boost-it-exports-to-5-billion-by-2030
+9M_YoY_Operations,IT Park Residents Service Imports (9M 2025 vs 9M 2026),166.4,288.1,,USD Millions,https://www.uzdaily.uz/en/industrial-output-in-uzbekistans-special-economic-zones-rises-187/
+9M_YoY_Operations,IT Park Residents Market Services (9M 2025 vs 9M 2026),21870.1,27139.0,,Billion UZS,https://www.uzdaily.uz/en/industrial-output-in-uzbekistans-special-economic-zones-rises-187/
+9M_YoY_Operations,IT Park Residents Fixed-Capital Investment (9M 2025 vs 9M 2026),369.8,1252.6,,Billion UZS,https://www.uzdaily.uz/en/industrial-output-in-uzbekistans-special-economic-zones-rises-187/
+9M_YoY_Operations,IT Park Resident Companies Employment (Sep 2025 vs Sep 2026),46503,59714,300000,Employees,https://www.uzdaily.uz/en/industrial-output-in-uzbekistans-special-economic-zones-rises-187/ | https://www.it-park.uz/en/itpark/news/results-of-2023-transformation-and-plans-for-2024
+Ecosystem_Scale,IT Park Resident Companies (2017 vs 2026),147,4200,10000,Companies,https://pakistan.mfa.uz/en/news/uzbekistan-and-jordan-two-talent-economies-one-digital-agenda | https://www.it-park.uz/en/itpark/news/results-of-2023-transformation-and-plans-for-2024
+Ecosystem_Scale,Export Destination Countries (2017 vs 2026),8,105,,Countries,https://pakistan.mfa.uz/en/news/uzbekistan-and-jordan-two-talent-economies-one-digital-agenda
+Connectivity_2024,"Internet Users (% of population, 2024 vs World Avg)",72.51,89.51,,Percent,https://www.theglobaleconomy.com/Uzbekistan/Internet_users/
+Connectivity_2024,Fixed Internet Subscribers (2024),,34.74,,Per 100 people,https://www.theglobaleconomy.com/Uzbekistan/Internet_users/
+Connectivity_2024,Mobile Phone Subscribers (2024),,110.49,,Per 100 people,https://www.theglobaleconomy.com/Uzbekistan/Internet_users/
+Tax_Incentives,Corporate Income Tax (Non-Resident vs IT Park Resident),4-15%,0%,,Tax Rate,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan
+Tax_Incentives,Social Tax (Non-Resident vs IT Park Resident),12%,0%,,Tax Rate,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan
+Tax_Incentives,Personal Income Tax (Non-Resident vs IT Park Resident),12%,7.5%,,Tax Rate,https://tadviser.com/index.php/Article:ICT_market_in_Uzbekistan
+CIS_Benchmark_2025,World Bank ICT Service Exports BoP (Kazakhstan vs Uzbekistan),1355.23,921.5,,USD Millions (2025),https://data.worldbank.org/indicator/BX.GSR.CCIS.CD
+CIS_Benchmark_2025,World Bank ICT Share of Service Exports (Kazakhstan vs Uzbekistan),10.6,9.9,,Percent (2025),https://data.worldbank.org/indicator/BX.GSR.CCIS.ZS
+CIS_Benchmark_2024,ICT Goods Exports % of Goods Exports (Kazakhstan vs Uzbekistan vs World),0.87,0.35,4.55,Percent (2024),https://www.theglobaleconomy.com/Kazakhstan/information_technology_exports/ | https://www.theglobaleconomy.com/Uzbekistan/Information_technology_exports/
+CIS_Benchmark_2024,ICT Goods Exports % of Goods Exports (Armenia vs Georgia vs World),8.28,0.45,4.55,Percent (2024),https://www.theglobaleconomy.com/Armenia/information_technology_exports/ | https://www.theglobaleconomy.com/Georgia/information_technology_exports/
+CIS_Benchmark_2024,R&D Expenditure % of GDP (Kazakhstan vs Uzbekistan vs World),0.16,0.1,0.44,Percent of GDP (2024),https://www.theglobaleconomy.com/Kazakhstan/Research_and_development/ | https://www.theglobaleconomy.com/Uzbekistan/Research_and_development/
